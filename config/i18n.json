@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "mongo": false
+  },
+  "mongo-connection-string": "mongodb://localhost:27017",
+  "no-message": "Message for {0} was not found in {1}"
+}
